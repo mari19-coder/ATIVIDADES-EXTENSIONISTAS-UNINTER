@@ -107,7 +107,7 @@ O repositório contém os materiais utilizados para a realização do treinament
 ### 🎬 Vídeo de aplicação e foto
 
 🔗 **Vídeo:**
-[INSIRA AQUI O LINK DO VÍDEO]
+[https://github.com/mari19-coder/ATIVIDADES-EXTENSIONISTAS-UNINTER/blob/main/WhatsApp%20Video%202026-09-19%20at%2019.37.27.mp4]
 
 O vídeo possui duração máxima de 5 minutos e apresenta a aplicação do treinamento junto à comunidade local, demonstrando as atividades realizadas e a utilização prática dos conhecimentos apresentados.
 
