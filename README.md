@@ -1,1 +1,3 @@
-# ATIVIDADES-EXTENSIONISTAS-UNINTER
+#Atividade extensionista
+
+Repositório apenas para envidências do projeto.
