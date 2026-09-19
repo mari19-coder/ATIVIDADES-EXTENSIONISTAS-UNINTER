@@ -99,8 +99,8 @@ Para comprovar a execução e aplicação do projeto, foram disponibilizados os 
 
 ### 💻 Código e materiais do projeto
 
-🔗 **GitHub:**
-[INSIRA AQUI O LINK DO SEU REPOSITÓRIO]
+🔗 **PDF do Projeto:**
+[https://github.com/mari19-coder/ATIVIDADES-EXTENSIONISTAS-UNINTER/blob/main/Organizacao_Digital_Calendarios_e_Tarefas.pptx]
 
 O repositório contém os materiais utilizados para a realização do treinamento e a documentação do projeto.
 
